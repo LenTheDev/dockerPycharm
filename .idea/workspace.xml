@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9e1d0e5c-346c-4dfa-8add-791db25d9400" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/my_script.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dockerPycharm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dockerPycharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dockerPycharm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +41,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="4a36ca36-33bd-465f-abff-6bf1e065e552" />
   <component name="ProjectId" id="1jBZDmZKX6paCAG6A1vdtjsMIDD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +52,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Barcode" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="barcode" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603279330096</updated>
       <workItem from="1603279331498" duration="666000" />
+      <workItem from="1603281411495" duration="960000" />
     </task>
     <task id="LOCAL-00001" summary="Task: &quot;Created Docker File&quot;">
       <created>1603279758074</created>
@@ -59,16 +107,35 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: &quot;Created Docker File&quot;" />
     <MESSAGE value="Task: &quot;Created Python File&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="Task: &quot;Created Python File&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1373" y="237" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603281665628">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1373" y="237" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1603281665628" />
     <state x="1523" y="37" key="CommitChangelistDialog2" timestamp="1603279891052">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1523" y="37" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1603279891052" />
+    <state x="1433" y="220" width="900" height="722" key="SettingsEditor" timestamp="1603281582303">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1433" y="220" width="900" height="722" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1603281582303" />
     <state x="1520" y="276" key="Vcs.Push.Dialog.v2" timestamp="1603279959618">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>

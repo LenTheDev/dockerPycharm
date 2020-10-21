@@ -1,2 +1,7 @@
-# dockerPycharm
- Project that uses Git, Python, PyCharm, and Docker within the same environment. 
+#Create a Python and Docker project with PyCharm
+A project by:
+* [LenTheDev](https://github.com/lenthedev)
+![Screenshot](./images/dockerPycharm.png "Screenshot")
+
+
+
